@@ -48,10 +48,10 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/pmezard/go-difflib v1.0.0
 	github.com/prometheus/alertmanager v0.21.1-0.20210422101724-8176f78a70e1
-	github.com/prometheus/client_golang v1.10.0
+	github.com/prometheus/client_golang v1.11.0
 	github.com/prometheus/client_model v0.2.0
-	github.com/prometheus/common v0.23.0
-	github.com/prometheus/exporter-toolkit v0.5.1
+	github.com/prometheus/common v0.29.0
+	github.com/prometheus/exporter-toolkit v0.7.2
 	github.com/prometheus/prometheus v1.8.2-0.20210519120135-d95b0972505f
 	github.com/uber/jaeger-client-go v2.28.0+incompatible
 	github.com/uber/jaeger-lib v2.4.1+incompatible
@@ -61,8 +61,8 @@ require (
 	go.uber.org/atomic v1.7.0
 	go.uber.org/automaxprocs v1.2.0
 	go.uber.org/goleak v1.1.10
-	golang.org/x/crypto v0.0.0-20210220033148-5ea612d1eb83
-	golang.org/x/oauth2 v0.0.0-20210427180440-81ed05c6b58c
+	golang.org/x/crypto v0.0.0-20210616213533-5ff15b29337e
+	golang.org/x/oauth2 v0.0.0-20210514164344-f6687ab2804c
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
 	golang.org/x/text v0.3.6
 	google.golang.org/api v0.46.0
